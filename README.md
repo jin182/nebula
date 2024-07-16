@@ -3,5 +3,5 @@
   <p>
 <b>https://drive.google.com/file/d/1X0aXxs0kVrrgP0ADFLETU6i9iLY2mpj7/view?usp=sharing</b> 
   </p>
-  exploit-exercises-nebula-5.iso은 여기서 다운로드가능합니다
+  exploit-exercises-nebula-5.iso은 위에 링크에서 다운로드가능합니다
 </div>
